@@ -1,0 +1,23 @@
+footer {
+  border-top: 1px solid #212121;
+}
+footer a {
+  color: #212121;
+  text-decoration: none;
+}
+#navegador {
+  background-color: #0062ff;
+}
+#navegador a {
+  color: #ffffff;
+}
+#navegador a:hover {
+  color: #b4b4b4;
+}
+.btn-enviar {
+  background-color: #212121;
+  color: #ffffff;
+}
+.error {
+  color: #ff0000;
+}
